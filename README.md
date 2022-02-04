@@ -1,5 +1,5 @@
 # PHP Projects
- I will share useful articles and projects related to PHP.
+Useful articles and projects related to PHP.
 
 
 Get day difference between two dates with php:
