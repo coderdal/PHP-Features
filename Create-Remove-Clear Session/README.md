@@ -1,5 +1,5 @@
 
-## Creating-Deleting-Clearing Sessions Using PHP
+## Create-Remove-Clear Sessions Using PHP
 
 ### Functions Usage
 
