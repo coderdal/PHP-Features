@@ -10,10 +10,13 @@
     clearSessions();// Clear all sessions.
 
 Example Session Creation:
+
     createSession('sessionName', 'SessionValue');
 
 Example Session Deletion:
+
     removeSession('sessionName');
 
 Example Clear All Sessions:
+
     clearSessions();
